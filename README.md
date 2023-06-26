@@ -1,5 +1,5 @@
 ## Our Privacy Policie
-This Privacy Policy governs the manner in which  collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your App Name] mobile application ("App"). This privacy policy applies to the App and all products and services offered by [Your Company Name].
+This Privacy Policy governs the manner in which  collects, uses, maintains, and discloses information collected from users (each, a "User") of the MSS mobile application ("App"). This privacy policy applies to the App and all products and services offered by Mobile settlement limite.
 
 Information Collection
 1.1 Personal Identification Information:
@@ -32,6 +32,6 @@ By using this App, Users signify their acceptance of this policy. If you do not 
 
 Contact Us
 
-If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at info@mopawa.co.ke.
 
 Please note that this is just an example and should not be considered legal advice. It is essential to consult with a legal professional or privacy expert to ensure compliance with applicable laws and regulations.
